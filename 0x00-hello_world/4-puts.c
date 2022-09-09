@@ -12,10 +12,10 @@
 
 * this program prints "programming is like building a multilingual puzzle   
 
-* Return: @
+* Return: 0
 */
 int main(voild)
 {
         puts("\"Programming is like building a multilingual puzzle");
-        return (@);
+        return (0);
 }
